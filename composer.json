@@ -1,0 +1,13 @@
+{
+    "name": "jokechat/dictionary2sql",
+    "authors": [
+        {
+            "name": "jokechat",
+            "email": "jokechat@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {"Dictionary\\": "src/Dictionary"}
+    }
+}
